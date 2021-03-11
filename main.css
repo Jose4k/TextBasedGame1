@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Pirata One&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Redressed&display=swap');
 body{
     background-color: black;
     font-family:"Roboto" ;
@@ -11,21 +13,20 @@ body{
     margin-right: 0px;
 }
 p{
-    font-family:"Roboto" ;
-    font-size:25px ;
+    font-family:"Caveat" ;
+    font-size:30px ;
     color: rgb(255, 0, 76);
 }
 
 h1
 {
     background-color: black;
-    font-family:"Roboto" ;
+    font-family:"Redressed" ;
     font-weight: 400;
     font-size: 70px;
     padding: 80px;
     color:rgb(255, 0, 76);
-    margin-left: 100px;
-    margin-right: 0px;
+    text-align: center;
 }  
 body{
     left: 0;
@@ -34,5 +35,5 @@ body{
     position: absolute;
     text-align: center;
     top: 50%;
-    width: 100%;
+    width: 50%;
 }
