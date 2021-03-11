@@ -27,3 +27,12 @@ h1
     margin-left: 100px;
     margin-right: 0px;
 }  
+body{
+    left: 0;
+    line-height: 50px;
+    margin-top: -500px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+}
