@@ -1,39 +1,27 @@
-@import url('https://fonts.googleapis.com/css?family=Pirata One&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Caveat&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Redressed&display=swap');
 body{
-    background-color: black;
-    font-family:"Roboto" ;
-    font-weight: 400;
-    font-size: 20px;
-    padding: 80px;
-    color:rgb(255, 255, 255);
-    margin-left: 100px;
-    margin-right: 0px;
+    background-image: url(https://infatuation.s3.amazonaws.com/media/images/guides/west-loop-restaurants/interior%20bar%205%20%282%29.jpg);
+    color: rgb(255, 0, 76); 
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 250px;
+    background-color: #cccccc;
+    background-position:center;
+    background-attachment: fixed;
 }
 p{
-    font-family:"Caveat" ;
-    font-size:30px ;
-    color: rgb(255, 0, 76);
+    font-family: "Caveat";
+    font-size: 35px;
+    background-color:black ;
 }
 
 h1
 {
-    background-color: black;
-    font-family:"Redressed" ;
-    font-weight: 400;
-    font-size: 70px;
-    padding: 80px;
-    color:rgb(255, 0, 76);
-    text-align: center;
+    font-family: "Redressed";
+    font-size:80px;
+    background-color:black ;
 }  
-body{
-    left: 0;
-    line-height: 50px;
-    margin-top: -500px;
-    position: absolute;
-    text-align: center;
-    top: 50%;
-    width: 50%;
-}
+
+
